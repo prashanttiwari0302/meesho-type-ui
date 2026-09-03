@@ -1,0 +1,6 @@
+{
+  "name": "Meesho Online Shopping",
+  "description": "Meesho e-commerce shopping interface with lowest prices, category browsing, filters, product details, cart, and checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
